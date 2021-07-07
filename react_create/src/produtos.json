@@ -1,0 +1,24 @@
+
+[
+  {
+    "id": 1,
+    "nomeProduto": "Celular Samsung J5", 
+    "vendeu": "Não"
+  },
+  {
+    "id": 2,
+    "nomeProduto": "Televisão Philips 50'' ", 
+    "vendeu": "Sim"
+  },
+  {
+    "id": 3,
+    "nomeProduto": "Computador Samsung I7", 
+    "vendeu": "Não"
+  },
+  {
+    "id": 4,
+    "nomeProduto": "Notebook DELL I5", 
+    "vendeu": "Sim"
+  }
+  
+]
